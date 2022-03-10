@@ -28,15 +28,15 @@ I love creating & finding interesting datasets and seeing what awesome ideas my 
 Other stuff: **[Configs](https://github.com/Mukhopadhyay/dotfiles)** | **[Gists](https://gist.github.com/Mukhopadhyay)** |
 
 --- -->
-<!-- 
-### Skills: 
+
+<!-- ### Skills: 
 ![Python Badge](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=FFD43B&logo=python&logoColor=306998) 
 ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FFA800?style=for-the-badge&labelColor=white&logo=tensorflow&logoColor=FFA800)
 ![Pandas Badge](https://img.shields.io/badge/-Pandas-dd1286?style=for-the-badge&labelColor=white&logo=pandas&logoColor=160762)
 ![NumPy Badge](https://img.shields.io/badge/-Numpy-efc53b?style=for-the-badge&labelColor=306998&logo=numpy&logoColor=efc53b)
-![NumPy Badge](https://img.shields.io/badge/-Scipy-0b53a4?style=for-the-badge&labelColor=white&logo=scipy&logoColor=04449c)
- -->
-<!-- Skills: **`Python`** | **`TensorFlow`** | **`Keras`** | **`Pandas`** | **`Numpy`** -->
+![NumPy Badge](https://img.shields.io/badge/-Scipy-0b53a4?style=for-the-badge&labelColor=white&logo=scipy&logoColor=04449c) -->
+
+Skills: **`Python`** | **`TensorFlow`** | **`Keras`** | **`Pandas`** | **`Numpy`**
 
 <!-- - 📈 Maintaining the **[OpenData](https://github.com/Mukhopadhyay/OpenData)** repository with all my known datasets and open data websites.
 - 🔭 I’m currently working on hosting a blog on Github pages. 

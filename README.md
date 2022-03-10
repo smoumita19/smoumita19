@@ -47,4 +47,4 @@ Other stuff: **[Configs](https://github.com/Mukhopadhyay/dotfiles)** | **[Gists]
 
 
 Got to know about this following part from user @timashan (https://github.com/timashan)
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhopadhyay&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Mukhopadhyay" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=smoumita19&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="smoumita19" /></div>

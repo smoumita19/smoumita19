@@ -36,7 +36,7 @@ Other stuff: **[Configs](https://github.com/Mukhopadhyay/dotfiles)** | **[Gists]
 ![NumPy Badge](https://img.shields.io/badge/-Numpy-efc53b?style=for-the-badge&labelColor=306998&logo=numpy&logoColor=efc53b)
 ![NumPy Badge](https://img.shields.io/badge/-Scipy-0b53a4?style=for-the-badge&labelColor=white&logo=scipy&logoColor=04449c) -->
 
-Skills: **`Python`** | **`TensorFlow`** | **`Keras`** | **`Pandas`** | **`Numpy`**
+Skills: **`ReactJS`** | **`ES6`** | **`.NET`** | **`NODEJS`** | **`JAVA`**
 
 <!-- - 📈 Maintaining the **[OpenData](https://github.com/Mukhopadhyay/OpenData)** repository with all my known datasets and open data websites.
 - 🔭 I’m currently working on hosting a blog on Github pages. 

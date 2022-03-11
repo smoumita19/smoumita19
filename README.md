@@ -46,5 +46,5 @@ Skills: **`ReactJS`** | **`ES6`** | **`.NET`** | **`NODEJS`** | **`JAVA`**
 [<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/Mukhopadhyay)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/pranesh-mukhopadhyay-362125170/)  [<img src='https://cdn.iconscout.com/icon/free/png-256/kaggle-3628869-3030009.png' alt='kaggle' height='40'>](https://www.kaggle.com/praneshmukhopadhyay)   -->
 
 
-Got to know about this following part from user @timashan (https://github.com/timashan)
+<!-- Got to know about this following part from user @timashan (https://github.com/timashan) -->
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=smoumita19&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="smoumita19" /></div>
